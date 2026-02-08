@@ -213,4 +213,4 @@ After testing in Colab:
 
 ---
 
-**Ready to test!** Choose one of the three options above and start processing claims in the cloud! 🚀
+**Ready to test!** Choose one of the three options above and start processing claims in the cloud!
